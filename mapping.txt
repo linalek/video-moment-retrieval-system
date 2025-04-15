@@ -1,7 +1,0 @@
-url: text
-num_moments: integer
-video_id: integer
-CaptionText: text
-CaptionEmbedding: vector<integer>
-length: integer
-entities: text
